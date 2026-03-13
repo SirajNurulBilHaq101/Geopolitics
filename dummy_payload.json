@@ -1,0 +1,34 @@
+{
+  "run_at": "2026-03-13T08:00:00Z",
+  "summary": "Ringkasan utama geopolitik global hari ini. Fokus pada ketegangan di Asia Timur dan Eropa.",
+  "items": [
+    {
+      "title": "Ketegangan Militer di Selat Taiwan Meningkat",
+      "source": "Reuters",
+      "source_url": "https://example.com/article/taiwan-strait-2026",
+      "published_at": "2026-03-13T06:30:00Z",
+      "region": "Asia",
+      "countries": ["China", "Taiwan"],
+      "actors": ["PLA", "Taiwan Defense Ministry", "US Indo-Pacom"],
+      "topic": "Security",
+      "priority": "high",
+      "summary": "Tiongkok menggelar latihan militer mendadak berskala besar di sekitar Selat Taiwan menyusul kunjungan delegasi tingkat tinggi AS ke Taipei.",
+      "why_it_matters": "Dampak potensial terhadap stabilitas kawasan Asia Pasifik dan potensi gangguan pada rantai pasok global semikonduktor.",
+      "confidence": 0.92
+    },
+    {
+      "title": "Perjanjian Dagang Baru Uni Eropa dan India Ditandatangani",
+      "source": "Bloomberg",
+      "source_url": "https://example.com/article/eu-india-trade",
+      "published_at": "2026-03-13T07:15:00Z",
+      "region": "Europe",
+      "countries": ["India", "France", "Germany"],
+      "actors": ["EU Commission", "Indian Trade Ministry"],
+      "topic": "Economy",
+      "priority": "normal",
+      "summary": "Uni Eropa dan India menandatangani pakta perdagangan komprehensif setelah negosiasi panjang selama lima tahun.",
+      "why_it_matters": "Membuka pasar baru dan diversifikasi rantai pasok menjauh dari ketergantungan pada Tiongkok.",
+      "confidence": 0.88
+    }
+  ]
+}
